@@ -1,0 +1,8 @@
+{
+  "name": "Diwali Electronics Mega Sale",
+  "description": "Premium Diwali festive electronics shopping festival with 50-60% off across smartphones, laptops, audio, TVs, and appliances.",
+  "requestFramePermissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

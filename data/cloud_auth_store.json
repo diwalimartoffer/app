@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "usr_demo_aarav",
+      "fullName": "Aarav Sharma",
+      "phone": "+919876543210",
+      "email": "aarav.sharma@diwalimart.in",
+      "password": "Diwali2026!",
+      "createdAt": "2026-10-05T13:35:42.891Z",
+      "updatedAt": "2026-10-05T13:35:42.891Z"
+    },
+    {
+      "id": "usr_demo_priya",
+      "fullName": "Priya Patel",
+      "phone": "+919811122233",
+      "email": "priya.patel@diwalimart.in",
+      "password": "Festive108!",
+      "createdAt": "2026-10-05T13:35:42.891Z",
+      "updatedAt": "2026-10-05T13:35:42.891Z"
+    },
+    {
+      "id": "usr_demo_vikram",
+      "fullName": "Vikram Singh",
+      "phone": "+919999888877",
+      "email": "vikram.singh@diwalimart.in",
+      "password": "LakshmiBless24!",
+      "createdAt": "2026-10-05T13:35:42.891Z",
+      "updatedAt": "2026-10-05T13:35:42.891Z"
+    },
+    {
+      "id": "usr_1791207357653_j1txm",
+      "fullName": "Cross Browser Customer",
+      "phone": "+919123483239",
+      "email": "9123483239@diwalimart.in",
+      "password": "SecretFestivePass123!",
+      "createdAt": "2026-10-05T13:35:57.653Z",
+      "updatedAt": "2026-10-05T13:35:57.653Z"
+    },
+    {
+      "id": "usr_1791207883463_v2e2x",
+      "fullName": "Prince",
+      "phone": "+916388507400",
+      "email": "6388507400@diwalimart.in",
+      "password": "Prince@123",
+      "createdAt": "2026-10-05T13:44:43.463Z",
+      "updatedAt": "2026-10-05T13:44:43.463Z"
+    }
+  ],
+  "addresses": [
+    {
+      "id": "addr_demo_1",
+      "userId": "usr_demo_aarav",
+      "fullName": "Aarav Sharma",
+      "phone": "+919876543210",
+      "houseFlatBuilding": "Flat 402, Shanti Niketan Apartments",
+      "address": "5th Main Road, Near Diya Park",
+      "area": "Indiranagar 1st Stage",
+      "landmark": "Opposite Metro Pillar 84",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "560038",
+      "isDefault": true,
+      "createdAt": "2026-10-05T13:35:42.891Z",
+      "updatedAt": "2026-10-05T13:35:42.891Z"
+    }
+  ]
+}
