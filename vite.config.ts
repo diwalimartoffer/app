@@ -12,6 +12,9 @@ export default defineConfig(() => {
       },
     },
     server: {
+      // Cloudflare tunnel ke allowed hosts ko skip karne ke liye
+      allowedHosts: true,
+      
       // HMR is disabled in AI Studio via DISABLE_HMR env var.
       // Do not modify—file watching is disabled to prevent flickering during agent edits.
       hmr: process.env.DISABLE_HMR !== 'true',
